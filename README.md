@@ -2,7 +2,9 @@
 
 🧑‍💻 About Me I'm a seasoned Cloud DevOps Engineer with over 5+ years of experience in cloud infrastructure, automation, and continuous integration/continuous deployment (CI/CD). I specialize in leveraging tools like AWS, Azure, and Kubernetes to deliver robust and scalable solutions. I’m passionate about optimizing infrastructure and driving automation to achieve operational excellence.
 
-🔭 **Currently Working On**: AWS Cloud DevOps and Site Reliability Engineering (SRE) ☁️ Specializing in multi-cloud strategies and infrastructure as code (IaC).
+🔭 **Currently Working On**: AWS Cloud DevOps and Site Reliability Engineering (SRE) 
+
+☁️ Specializing in multi-cloud strategies and infrastructure as code (IaC).
 
 ⚙️ Skilled in AWS, Azure, and Google Cloud for building resilient cloud architectures. 
 
