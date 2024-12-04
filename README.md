@@ -17,7 +17,12 @@
 🎯 **Recent Achievements**: Reduced deployment time by 40% through CI/CD pipeline optimization Developed infrastructure as code templates that improved provisioning efficiency by 35% Certified in AWS Solutions Architect and Azure DevOps Engineer Automated infrastructure monitoring and alerting using Prometheus and Grafana 
 
 🛠️ Tech Toolbox
-💻 **Programming Languages**: Python, Bash, Go ☁️ Cloud Platforms: AWS, Azure, Google Cloud 🔧 DevOps Tools: Kubernetes, Docker, Terraform, Ansible, Jenkins 📈 Monitoring & Logging: Prometheus, Grafana, ELK Stack 
+
+💻 **Programming Languages**: Python, Bash, Go ☁️ Cloud Platforms: AWS, Azure, Google Cloud 
+
+🔧 DevOps Tools: Kubernetes, Docker, Terraform, Ansible, Jenkins 
+
+📈 Monitoring & Logging: Prometheus, Grafana, Dynatrace,Icinga, icELK Stack 
 
 🛠️ Methodologies: Agile, DevOps, SRE (Site Reliability Engineering)
 
