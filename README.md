@@ -9,9 +9,9 @@
 
 🔭 **Currently Working On**: AWS Cloud DevOps and Site Reliability Engineering (SRE) 
 
-☁️ Specializing in multi-cloud strategies and infrastructure as code (IaC).
+☁️ Specializing in multi-cloud strategies and infrastructure as a code (IaC).
 
-⚙️ Skilled in AWS, Azure, and Google Cloud for building resilient cloud architectures. 
+⚙️ Skilled in AWS, Azure, and Private Cloud for building resilient cloud architectures. 
 
 🌱 Learning Next: Exploring serverless architectures and advanced security practices 
 
