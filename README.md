@@ -5,9 +5,13 @@
 🔭 **Currently Working On**: AWS Cloud DevOps and Site Reliability Engineering (SRE) ☁️ Specializing in multi-cloud strategies and infrastructure as code (IaC).
 
 ⚙️ Skilled in AWS, Azure, and Google Cloud for building resilient cloud architectures. 
+
 🌱 Learning Next: Exploring serverless architectures and advanced security practices 
+
 🌟 Tech Interests: Containerization, CI/CD pipelines, and cloud security 
+
 🌟 Open to collaborations and sharing knowledge with the tech community.
+
 ✍️ I Enjoy: Collaborating with teams, solving infrastructure challenges, and mentoring.
 
 🎯 **Recent Achievements**: Reduced deployment time by 40% through CI/CD pipeline optimization Developed infrastructure as code templates that improved provisioning efficiency by 35% Certified in AWS Solutions Architect and Azure DevOps Engineer Automated infrastructure monitoring and alerting using Prometheus and Grafana 
